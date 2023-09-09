@@ -1,22 +1,21 @@
-#This app is a text utility app build in react .js
-<br>
-Which help to 
-<br>
- Remove Extra spaces
- <br>
- Capitalize text
- <br>
- convert to Upper case and lower case
- <br>
- clear text
- <br>
- copy text
- <br>
- speak 
- <br>
-Count words
- <br>
- Count characters 
+# This app is a text utility app 
+## which help to 
+
+ Remove Extra spaces \
+ 
+ Capitalize text\
+ 
+ convert to Upper case and lower case\
+
+ clear text\
+
+ copy text\
+
+ speak \
+
+Count words\
+
+ Count characters \
 
 
 
