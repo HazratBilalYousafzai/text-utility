@@ -1,21 +1,14 @@
 # This app is a text utility app 
 ## which help to 
 
- Remove Extra spaces \
- 
- Capitalize text\
- 
- convert to Upper case and lower case\
-
- clear text\
-
- copy text\
-
- speak \
-
-Count words\
-
- Count characters \
+ * Remove Extra spaces 
+ * Capitalize text
+ * Convert to Upper case and lower case
+ * Clear text
+ * Copy text
+ * Speak 
+ * Count words
+ * Count characters 
 
 
 
